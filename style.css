@@ -18,3 +18,9 @@ p {
 }
 
 /*object based*/
+#header {
+  background-image:url("assets/background_1.jpg");
+  padding-top: 45vh;
+  padding-bottom:38vh;
+  color:white;
+}
